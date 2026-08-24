@@ -5,7 +5,7 @@
 
 x = 187
 y = 240
-print( x & y)
+print(x & y)
 print(f'{x:b}')
 print(f'{y:b}')
 z = ''
